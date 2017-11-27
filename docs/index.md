@@ -1,2 +1,0 @@
-
-*Concepts In Computer Programming
