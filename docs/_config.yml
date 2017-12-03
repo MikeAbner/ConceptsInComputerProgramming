@@ -1,2 +1,3 @@
+permalink: /:categories/:title.html
 theme: jekyll-theme-architect
 title: Concepts In Computer Programming

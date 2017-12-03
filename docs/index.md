@@ -7,7 +7,11 @@ learning how to build full featured applications from the ground up. We'll start
 # Table of Contents
 
 > __The Basics__
->> 1.) What is a Computer Program?
->> 2.) What is a Programming Language?
+
+> __0.)__ [What is a Computer Program?]({{ site.baseurl }}{% link 0_basics-what-is-a-computer-program.md %})
+
+> 1.) 
+
+> 2.) What is a Programming Language?
 
 
