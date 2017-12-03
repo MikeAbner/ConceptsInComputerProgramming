@@ -6,11 +6,7 @@ learning how to build full featured applications from the ground up. We'll start
 
 # Table of Contents
 
-> __The Basics__
-
-> __0.)__ [What is a Computer Program?](content/0_basics/0-what-is-a-computer-program.md) 
-
-
-> __2.)__ [What is a Programming Language?](content/0_basics/1-what-is-a-programming-language.md) 
-
+- __The Basics__
+  - __0.)__ [What is a Computer Program?](content/0_basics/0-what-is-a-computer-program.md) 
+  - __2.)__ [What is a Programming Language?](content/0_basics/1-what-is-a-programming-language.md) 
 
