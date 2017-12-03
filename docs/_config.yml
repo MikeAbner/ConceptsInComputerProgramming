@@ -1,8 +1,8 @@
 baseurl: ""
 url: "http://www.conceptsincomputerprogramming.com"
-description: >-
-  Is this the subtitle?
+title: Concepts In Computer Programming
+description: A Software Development Curriculum
 email: mike.abner@gmail.com
 github_username: MikeAbner
 theme: jekyll-theme-cayman
-title: Concepts In Computer Programming
+
