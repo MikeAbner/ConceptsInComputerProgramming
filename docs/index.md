@@ -6,7 +6,12 @@ learning how to build full featured applications from the ground up. We'll start
 
 # Table of Contents
 
-- __The Basics__
-  - __0.)__ [What is a Computer Program?](content/0_basics/0-what-is-a-computer-program.md) 
-  - __2.)__ [What is a Programming Language?](content/0_basics/1-what-is-a-programming-language.md) 
+#### __The Basics__
+  0. [What is a Computer Program?](content/0_basics/0-what-is-a-computer-program.md) 
+  1. [What is a Programming Language?](content/0_basics/1-what-is-a-programming-language.md) 
+  2. [Types of Programming Languages](content/0_basics/2-types-of-programming-languages.md) 
+  3. [Our Programming Language: Ruby](content/0_basics/3-our-programming-language-ruby.md) 
+  4. [Your First Computer Program](content/0_basics/4-your-first-computer-program.md) 
 
+#### __Variables__
+  0. A place to store things...
