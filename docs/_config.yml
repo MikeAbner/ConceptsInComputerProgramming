@@ -1,2 +1,8 @@
-theme: jekyll-theme-architect
+baseurl: ""
+url: "http://www.conceptsincomputerprogramming.com"
+description: >-
+  Concepts in Computer Programming
+email: mike.abner@gmail.com
+github_username: MikeAbner
+#theme: jekyll-theme-architect
 title: Concepts In Computer Programming
