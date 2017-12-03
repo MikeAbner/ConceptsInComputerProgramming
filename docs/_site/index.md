@@ -8,7 +8,7 @@ learning how to build full featured applications from the ground up. We'll start
 
 > __The Basics__
 
-> __0.)__ What is a Computer Program?
+> __0.)__ [What is a Computer Program?](http://www.google.com) 
 
 > 1.) What is a Computer Program?
 
