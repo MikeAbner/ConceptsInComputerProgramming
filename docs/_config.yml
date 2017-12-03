@@ -1,7 +1,7 @@
 baseurl: ""
 url: "http://www.conceptsincomputerprogramming.com"
 description: >-
-  Concepts in Computer Programming
+  Is this the subtitle?
 email: mike.abner@gmail.com
 github_username: MikeAbner
 theme: jekyll-theme-cayman
